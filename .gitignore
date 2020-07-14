@@ -30,3 +30,5 @@ Obj/**
 *.suo
 *.sdf
 *.opensdf
+
+.vs
